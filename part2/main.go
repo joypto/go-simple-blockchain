@@ -1,3 +1,4 @@
+// Proof of Work
 package main
 
 import (

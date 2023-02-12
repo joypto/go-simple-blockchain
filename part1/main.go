@@ -1,3 +1,4 @@
+// Prototype of a blockchain
 package main
 
 import (
